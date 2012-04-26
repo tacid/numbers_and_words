@@ -26,5 +26,6 @@ end
 
 {
   :ru => {:i18n => {:plural => {:rule => NumbersAndWords::Locales::Plurals::RU}}},
+  :uk => {:i18n => {:plural => {:rule => NumbersAndWords::Locales::Plurals::RU}}},
   :en => {:i18n => {:plural => {:rule => NumbersAndWords::Locales::Plurals::EN}}}
 }

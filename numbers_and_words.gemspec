@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "numbers_and_words"
-  s.version = "0.3.0"
+  s.version = "0.3.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Kirill Lazarev"]
-  s.date = "2012-03-22"
+  s.date = "2012-04-26"
   s.description = "Convert numbers to words using I18N."
   s.email = "k.s.lazarev@gmail.com"
   s.extra_rdoc_files = [
@@ -20,6 +20,7 @@ Gem::Specification.new do |s|
     "lib/initializers/i18n.rb",
     "lib/locales/numbers.en.yml",
     "lib/locales/numbers.ru.yml",
+    "lib/locales/numbers.uk.yml",
     "lib/locales/plurals.rb",
     "lib/numbers_and_words.rb",
     "lib/numbers_and_words/array_additions.rb",

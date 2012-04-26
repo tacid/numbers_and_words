@@ -1,0 +1,52 @@
+uk:
+  numbers:
+    ones_male: [нуль, один, два, три, чотири, п’ять, шість, сім, вісім, дев’ять]
+    ones_female: [нуль, однa, дві, три, чотири, п’ять, шість, сім, вісім, дев’ять]
+    teens: [десять, одиннадцять, дванадцять, тринадцять, чотирнадцять, п’ятнадцять, шістнадцять, сімнадцять, вісімнадцять, дев’ятнадцять]
+    tens: [нуль, десять, двадцять, тридцять, сорок, п’ятдесят, шістдесят, сімдесят, вісімдесят, дев’яносто]
+    hundreds: [нуль, сто, двісті, триста, чотириста, п’ятсот, шістсот, сімсот, вісімсот, дев’ятсот]
+    thousands:
+      one: тисяча
+      few: тисячі
+      many: тисяч
+    millions:
+      one: мільйон
+      few: мільйони
+      many: мільйонів
+    billions:
+      one: мільярд
+      few: мільярди
+      many: мільярдів
+    trillions:
+      one: трильйон
+      few: трильйони
+      many: трильйонів
+    quadrillions:
+      one: квадрильйон
+      few: квадрильйони
+      many: квадрильйонів
+    quintillions:
+      one: квінтильйон
+      few: квінтильйони
+      many: квінтильйонів
+    sextillions:
+      one: секстильйон
+      few: секстильйони
+      many: секстильйонів
+    septillions:
+      one: септильйон
+      few: септильйони
+      many: септильйонів
+    octillions:
+      one: октильйон
+      few: октильйони
+      many: октильйонів
+    nonillions:
+      one: нонильйон
+      few: нонильйони
+      many: нонильйонів
+    decillions:
+      one: децильйон
+      few: децильйони
+      many: децильйонів
+    mega: [ones, thousands, millions, billions, trillions, quadrillions, quintillion, sextillions, septillions, octillions, nonillions, decillions]
